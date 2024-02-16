@@ -1,0 +1,77 @@
+started from the bottom end
+s+
+fr+
+bot+
+quit
+*****
+started from the bottom end
+ted.
+he.
+m.
+quit
+*****
+started from the bottom end
+r*
+ro*
+to*
+quit
+*****
+started from the bottom end
+r**
+ro**
+to**
+quit
+*****
+started + from , the - bottom 3 end
+, + END
+started from the bottom end
+quit
+*****
+started from the bottom end
+invalid-search-string
+invalid
+quit
+*****
+Tomorrow i will buy tomato but yesterday which is saturday i bought potato end
+To+
+to+
+Tomorrow+
+po+
+poo+
+potato+
+but+
+i+
+is+
+quit
+*****
+Tomorrow i will buy tomato but yesterday which is saturday i bought potato end
+w.
+row.
+i.
+but.
+day.
+rday.
+t.
+to.
+k.
+quit
+*****
+Tomorrow i will buy tomato but yesterday which is saturday i bought potato end
+o*
+i*
+il*
+t*
+ta*
+tat*
+tato*
+quit
+*****
+Tomorrow i will buy tomato but yesterday which is saturday i bought potato end
+o**
+i**
+il**
+t**
+ta**
+tat**
+tato**
+quit

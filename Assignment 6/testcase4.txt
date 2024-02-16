@@ -1,0 +1,90 @@
+Welcome to my favorite TV series schedule program!
+Please, enter your name and surname: ryan gosling
+MENU
+1. Print all TV series
+2. Add TV series
+3. Drop TV series
+4. Print your favorite series with schedule
+5. Print all your favorite actors
+6. Exit
+---
+Please enter your choice: 2
+Enter code for the TV series you want to add: 8
+RYAN GOSLING, GAME OF THRONES added to your schedule.
+---
+MENU
+1. Print all TV series
+2. Add TV series
+3. Drop TV series
+4. Print your favorite series with schedule
+5. Print all your favorite actors
+6. Exit
+---
+Please enter your choice: 2
+Enter code for the TV series you want to add: 480
+RYAN GOSLING, MODERN FAMILY added to your schedule.
+---
+MENU
+1. Print all TV series
+2. Add TV series
+3. Drop TV series
+4. Print your favorite series with schedule
+5. Print all your favorite actors
+6. Exit
+---
+Please enter your choice: 2
+Enter code for the TV series you want to add: 5
+RYAN GOSLING, THE WALKING DEAD added to your schedule.
+---
+MENU
+1. Print all TV series
+2. Add TV series
+3. Drop TV series
+4. Print your favorite series with schedule
+5. Print all your favorite actors
+6. Exit
+---
+Please enter your choice: 4
+RYAN GOSLING, here is your favorite TV series:
+CODE,SERIES,EPISODE,DATE,SLOT
+480,MODERN FAMILY,BABY STEPS,November 26 2020,EVENING
+8,GAME OF THRONES,THE IRON THRONE,November 28 2020,MORNING
+8,GAME OF THRONES,THE LAST OF STARKS,November 30 2020,MORNING
+5,THE WALKING DEAD,A CERTAIN DOOM,December 3 2020,AFTERNOON
+---
+MENU
+1. Print all TV series
+2. Add TV series
+3. Drop TV series
+4. Print your favorite series with schedule
+5. Print all your favorite actors
+6. Exit
+---
+Please enter your choice: 5
+RYAN GOSLING, here is your favorite actors:
+ANDREW LINCOLN: 1
+ARIEL WINTER: 1
+CHANDLER RIGGS: 1
+EMILIA CLARKE: 1
+JULIE BOWEN: 1
+KIT HARINGTON: 1
+MAISIE WILLIAMS: 1
+NIKOLAJ COSTER WALDAU: 1
+NORMAN REEDUS: 1
+SARAH HYLAND: 1
+SARAH WAYNE CALLIES: 1
+SOFIA VERGARA: 1
+SOPHIE TURNER: 1
+WENTWORTH MILLER: 1
+YASEN ATOUR: 1
+---
+MENU
+1. Print all TV series
+2. Add TV series
+3. Drop TV series
+4. Print your favorite series with schedule
+5. Print all your favorite actors
+6. Exit
+---
+Please enter your choice: 6
+Goodbye, RYAN GOSLING!

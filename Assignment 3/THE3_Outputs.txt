@@ -1,0 +1,184 @@
+Output Test Case 1
+------------------
+Enter source string: started from the bottom end                                                                                               
+Enter search string: s+                                                                                                                        
+index: 0 word: started                                                                                                                         
+Enter search string: fr+                                                                                                                       
+index: 8 word: from                                                                                                                            
+Enter search string: bot+                                                                                                                      
+index: 17 word: bottom                                                                                                                         
+Enter search string: quit
+
+
+Output Test Case 2
+------------------
+Enter source string: started from the bottom end                     
+Enter search string: ted.                                            
+index: 4 word: started                                               
+Enter search string: he.                                             
+index: 14 word: the                                                  
+Enter search string: m.                                              
+index: 11 word: from                                                 
+index: 22 word: bottom                                               
+Enter search string: quit
+
+
+Output Test Case 3
+------------------
+Enter source string: started from the bottom end                     
+Enter search string: r*                                              
+index: 3 word: started                                               
+index: 9 word: from                                                  
+Enter search string: ro*                                             
+index: 9 word: from                                                  
+Enter search string: to*                                             
+index: 20 word: bottom                                               
+Enter search string: quit
+
+
+Output Test Case 4
+------------------
+Enter source string: started from the bottom end                     
+Enter search string: r**                                             
+index: 3 word: started                                               
+index: 9 word: from                                                  
+Enter search string: ro**                                            
+index: 9 word: from                                                  
+Enter search string: to**                                            
+index: 20 word: bottom                                               
+Enter search string: quit
+
+Output Test Case 5
+------------------
+Enter source string: started + from , the - bottom 3 end             
+Enter source string: , + END                                         
+Enter source string: started from the bottom end                     
+Enter search string: quit 
+
+
+Output Test Case 6
+------------------
+Enter source string: started from the bottom end                     
+Enter search string: invalid-search-string                           
+Enter search string: invalid                                         
+Enter search string: quit
+
+
+Output Test Case 7
+------------------
+Enter source string: Tomorrow i will buy tomato but yesterday which i
+s saturday i bought potato end                                       
+Enter search string: To+                                             
+index: 0 word: Tomorrow                                              
+Enter search string: to+                                             
+index: 20 word: tomato                                               
+Enter search string: Tomorrow+                                       
+index: 0 word: Tomorrow                                              
+Enter search string: po+                                             
+index: 68 word: potato                                               
+Enter search string: poo+                                            
+Enter search string: potato+                                         
+index: 68 word: potato                                               
+Enter search string: but+                                            
+index: 27 word: but                                                  
+Enter search string: i+                                              
+index: 9 word: i                                                     
+index: 47 word: is
+index: 59 word: i                                                    
+Enter search string: is+                                             
+index: 47 word: is                                                   
+Enter search string: quit
+
+
+Output Test Case 8
+------------------
+Enter source string: Tomorrow i will tomato but yesterday which is sa  
+turday i bought potato end                                             
+Enter search string: w.                                                
+index: 7 word: Tomorrow                                                
+Enter search string: row.                                              
+index: 5 word: Tomorrow                                                
+Enter search string: i.                                                
+index: 9 word: i                                                       
+index: 55 word: i                                                      
+Enter search string: but.                                              
+index: 23 word: but                                                    
+Enter search string: day.                                              
+index: 33 word: yesterday                                              
+index: 51 word: saturday                                               
+Enter search string: rday.                                             
+index: 32 word: yesterday                                              
+index: 50 word: saturday                                               
+Enter search string: t.                                                
+index: 25 word: but                                                    
+index: 62 word: bought                                                 
+Enter search string: to.                                               
+index: 20 word: tomato                                                 
+index: 68 word: potato                                                 
+Enter search string: k.                                                
+Enter search string: quit
+
+
+Output Test Case 9
+------------------
+Enter source string: Tomorrow i will buy tomato but yesterday which i  
+s saturday i bought potato end                                         
+Enter search string: o*                                                
+index: 1 word: Tomorrow                                                
+index: 3 word: Tomorrow                                                
+index: 6 word: Tomorrow                                                
+index: 62 word: bought                                                 
+Enter search string: i*                                                
+index: 12 word: will                                                   
+index: 43 word: which                                                  
+Enter search string: il*                                               
+index: 12 word: will                                                   
+Enter search string: t*                                                
+index: 34 word: yesterday                                              
+index: 52 word: saturday                                               
+index: 70 word: potato                                                 
+index: 72 word: potato                                                 
+Enter search string: ta*                                               
+index: 70 word: potato                                                 
+Enter search string: tat*                                              
+index: 70 word: potato                                                 
+Enter search string: tato*                                             
+Enter search string: quit
+
+Output Test Case 10
+------------------
+Enter source string: Tomorrow i will buy tomato but yesterday which is 
+saturday i bought potato end                                           
+Enter search string: o**                                               
+index: 1 word: Tomorrow                                                
+index: 3 word: Tomorrow                                                
+index: 6 word: Tomorrow                                                
+index: 21 word: tomato                                                 
+index: 25 word: tomato                                                 
+index: 62 word: bought                                                 
+index: 69 word: potato                                                 
+index: 73 word: potato                                                 
+Enter search string: i**                                               
+index: 9 word: i                                                       
+index: 12 word: will                                                   
+index: 43 word: which                                                  
+index: 47 word: is                                                     
+index: 59 word: i                                                      
+Enter search string: il**                                              
+index: 12 word: will                                                   
+Enter search string: t**                                               
+index: 20 word: tomato                                                 
+index: 24 word: tomato                                                 
+index: 29 word: but                                                    
+index: 34 word: yesterday                                              
+index: 52 word: saturday                                               
+index: 66 word: bought                                                 
+index: 70 word: potato                                                 
+index: 72 word: potato                                                 
+Enter search string: ta**                                              
+index: 70 word: potato                                                 
+Enter search string: tat**                                             
+index: 70 word: potato
+Enter search string: tato**                                            
+index: 70 word: potato                                                 
+Enter search string: quit

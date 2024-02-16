@@ -1,0 +1,199 @@
+TEST CASE 1 - Outputs
+
+Hello! This program compares two cuboids...
+Please enter colors for the two cuboids: PURPLE PURPLE
+Color names cannot be the same, good bye...
+
+------------------------------------------------------------------------------------------
+
+TEST CASE 2 - Outputs
+
+Hello! This program compares two cuboids...
+Please enter colors for the two cuboids: PuRpLE purple
+Color names cannot be the same, good bye...
+
+------------------------------------------------------------------------------------------
+
+
+TEST CASE 3 - Outputs
+
+Hello! This program compares two cuboids...
+Please enter colors for the two cuboids: BLUE YELLOW
+Please enter length, width and height of the BLUE cuboid: Q 25 0
+Invalid entry for BLUE cuboid. Dimensions should be positive real numbers!
+
+------------------------------------------------------------------------------------------
+
+TEST CASE 4 - Outputs
+
+Hello! This program compares two cuboids...
+Please enter colors for the two cuboids: BLUE YELLOW 
+Please enter length, width and height of the BLUE cuboid: 25 25 25 
+Please enter length, width and height of the YELLOW cuboid: 2 5 -1
+Invalid entry for YELLOW cuboid. Dimensions should be positive real numbers!
+
+------------------------------------------------------------------------------------------
+
+TEST CASE 5 - Outputs
+
+Hello! This program compares two cuboids...
+Please enter colors for the two cuboids: blue yellow
+Please enter length, width and height of the blue cuboid: 2 2 2
+Please enter length, width and height of the yellow cuboid: 4 4 4
+Results for the blue cuboid:
+Area: 24.00
+Volume: 8.00
+blue cuboid is a cube.
+
+Results for the yellow cuboid:
+Area: 96.00
+Volume: 64.00
+yellow cuboid is a cube.
+
+Comparison of the two cuboids:
+yellow has the largest volume.
+yellow has the largest area.
+
+------------------------------------------------------------------------------------------
+
+TEST CASE 6 - Outputs
+
+Hello! This program compares two cuboids...
+Please enter colors for the two cuboids: blue yellow
+Please enter length, width and height of the blue cuboid: 4 4 4
+Please enter length, width and height of the yellow cuboid: 2 2 2
+Results for the blue cuboid:
+Area: 96.00
+Volume: 64.00
+blue cuboid is a cube.
+
+Results for the yellow cuboid:
+Area: 24.00
+Volume: 8.00
+yellow cuboid is a cube.
+
+Comparison of the two cuboids:
+blue has the largest volume.
+blue has the largest area.
+
+------------------------------------------------------------------------------------------
+
+TEST CASE 7 - Outputs
+
+Hello! This program compares two cuboids...
+Please enter colors for the two cuboids: yellow blue
+Please enter length, width and height of the yellow cuboid: 2.6 2.6 2.6
+Please enter length, width and height of the blue cuboid: 2.6 2.6 2.6
+Results for the yellow cuboid:
+Area: 40.56
+Volume: 17.58
+yellow cuboid is a cube.
+
+Results for the blue cuboid:
+Area: 40.56
+Volume: 17.58
+blue cuboid is a cube.
+
+Comparison of the two cuboids:
+Two cuboids have the same volume.
+Two cuboids have the same area.
+
+------------------------------------------------------------------------------------------
+
+TEST CASE 8 - Outputs
+
+Hello! This program compares two cuboids...
+Please enter colors for the two cuboids: blue orange
+Please enter length, width and height of the blue cuboid: 19 19 1
+Please enter length, width and height of the orange cuboid: 8 8 8
+Results for the blue cuboid:
+Area: 798.00
+Volume: 361.00
+blue cuboid is not a cube.
+
+Results for the orange cuboid:
+Area: 384.00
+Volume: 512.00
+orange cuboid is a cube.
+
+Comparison of the two cuboids:
+orange has the largest volume.
+blue has the largest area.
+
+------------------------------------------------------------------------------------------
+
+
+TEST CASE 9 - Outputs
+
+Hello! This program compares two cuboids...
+Please enter colors for the two cuboids: blue red
+Please enter length, width and height of the blue cuboid: 19 18 1
+Please enter length, width and height of the red cuboid: 8 7 6
+Results for the blue cuboid:
+Area: 758.00
+Volume: 342.00
+blue cuboid is not a cube.
+
+Results for the red cuboid:
+Area: 292.00
+Volume: 336.00
+red cuboid is not a cube.
+
+Comparison of the two cuboids:
+blue has the largest volume.
+blue has the largest area.
+
+------------------------------------------------------------------------------------------
+
+TEST CASE 10 - Outputs
+
+Hello! This program compares two cuboids...
+Please enter colors for the two cuboids: blue red
+Please enter length, width and height of the blue cuboid: 2 5 3
+Please enter length, width and height of the red cuboid: 8 2 6
+Results for the blue cuboid:
+Area: 62.00
+Volume: 30.00
+blue cuboid is not a cube.
+
+Results for the red cuboid:
+Area: 152.00
+Volume: 96.00
+red cuboid is not a cube.
+
+Comparison of the two cuboids:
+red has the largest volume.
+red has the largest area.
+
+------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

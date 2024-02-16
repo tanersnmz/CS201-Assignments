@@ -1,0 +1,119 @@
+Welcome to my favorite TV series schedule program!
+Please, enter your name and surname: ryan gosling
+MENU
+1. Print all TV series
+2. Add TV series
+3. Drop TV series
+4. Print your favorite series with schedule
+5. Print all your favorite actors
+6. Exit
+---
+Please enter your choice: 2
+Enter code for the TV series you want to add: 5
+RYAN GOSLING, THE WALKING DEAD added to your schedule.
+---
+MENU
+1. Print all TV series
+2. Add TV series
+3. Drop TV series
+4. Print your favorite series with schedule
+5. Print all your favorite actors
+6. Exit
+---
+Please enter your choice: 2
+Enter code for the TV series you want to add: 4029
+RYAN GOSLING, VIKINGS added to your schedule.
+---
+MENU
+1. Print all TV series
+2. Add TV series
+3. Drop TV series
+4. Print your favorite series with schedule
+5. Print all your favorite actors
+6. Exit
+---
+Please enter your choice: 2
+Enter code for the TV series you want to add: 102
+RYAN GOSLING, THE WITCHER added to your schedule.
+---
+MENU
+1. Print all TV series
+2. Add TV series
+3. Drop TV series
+4. Print your favorite series with schedule
+5. Print all your favorite actors
+6. Exit
+---
+Please enter your choice: 2
+Enter code for the TV series you want to add: 5892
+RYAN GOSLING, SEINFELD added to your schedule.
+---
+MENU
+1. Print all TV series
+2. Add TV series
+3. Drop TV series
+4. Print your favorite series with schedule
+5. Print all your favorite actors
+6. Exit
+---
+Please enter your choice: 2
+Enter code for the TV series you want to add: 111
+RYAN GOSLING, PRISON BREAK added to your schedule.
+---
+MENU
+1. Print all TV series
+2. Add TV series
+3. Drop TV series
+4. Print your favorite series with schedule
+5. Print all your favorite actors
+6. Exit
+---
+Please enter your choice: 2
+Enter code for the TV series you want to add: 480
+RYAN GOSLING, MODERN FAMILY added to your schedule.
+---
+MENU
+1. Print all TV series
+2. Add TV series
+3. Drop TV series
+4. Print your favorite series with schedule
+5. Print all your favorite actors
+6. Exit
+---
+Please enter your choice: 5
+RYAN GOSLING, here is your favorite actors:
+BRYAN CRANSTON: 3
+YASEN ATOUR: 3
+SARAH WAYNE CALLIES: 2
+WENTWORTH MILLER: 2
+ALEXANDER LUDWIG: 1
+ANDREW LINCOLN: 1
+ANYA CHALOTRA: 1
+ARIEL WINTER: 1
+BASIL EIDENBENZ: 1
+CHANDLER RIGGS: 1
+CLIVE STANDEN: 1
+COURTENEY COX: 1
+DOMINIC PURCELL: 1
+FREYA ALLAN: 1
+JASON ALEXANDER: 1
+JERRY SEINFELD: 1
+JULIE BOWEN: 1
+KATHERYN WINNICK: 1
+MICHAEL RICHARDS: 1
+NORMAN REEDUS: 1
+ROBERT KNEPPER: 1
+SARAH HYLAND: 1
+SOFIA VERGARA: 1
+TRAVIS FIMMEL: 1
+---
+MENU
+1. Print all TV series
+2. Add TV series
+3. Drop TV series
+4. Print your favorite series with schedule
+5. Print all your favorite actors
+6. Exit
+---
+Please enter your choice: 6
+Goodbye, RYAN GOSLING!

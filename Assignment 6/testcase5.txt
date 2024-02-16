@@ -1,0 +1,48 @@
+Welcome to my favorite TV series schedule program!
+Please, enter your name and surname: ryan gosling
+MENU
+1. Print all TV series
+2. Add TV series
+3. Drop TV series
+4. Print your favorite series with schedule
+5. Print all your favorite actors
+6. Exit
+---
+Please enter your choice: 2
+Enter code for the TV series you want to add: 8
+RYAN GOSLING, GAME OF THRONES added to your schedule.
+---
+MENU
+1. Print all TV series
+2. Add TV series
+3. Drop TV series
+4. Print your favorite series with schedule
+5. Print all your favorite actors
+6. Exit
+---
+Please enter your choice: 2
+Enter code for the TV series you want to add: 1231
+RYAN GOSLING, HOW I MET YOUR MOTHER added to your schedule.
+---
+MENU
+1. Print all TV series
+2. Add TV series
+3. Drop TV series
+4. Print your favorite series with schedule
+5. Print all your favorite actors
+6. Exit
+---
+Please enter your choice: 2
+Enter code for the TV series you want to add: 102
+RYAN GOSLING, you can't add this TV series because of a date and slot conflict!
+---
+MENU
+1. Print all TV series
+2. Add TV series
+3. Drop TV series
+4. Print your favorite series with schedule
+5. Print all your favorite actors
+6. Exit
+---
+Please enter your choice: 6
+Goodbye, RYAN GOSLING!

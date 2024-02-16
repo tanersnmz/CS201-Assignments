@@ -1,0 +1,82 @@
+Welcome to my favorite TV series schedule program!
+Please, enter your name and surname: kobe bryant
+MENU
+1. Print all TV series
+2. Add TV series
+3. Drop TV series
+4. Print your favorite series with schedule
+5. Print all your favorite actors
+6. Exit
+---
+Please enter your choice: 2
+Enter code for the TV series you want to add: 5892
+KOBE BRYANT, SEINFELD added to your schedule.
+---
+MENU
+1. Print all TV series
+2. Add TV series
+3. Drop TV series
+4. Print your favorite series with schedule
+5. Print all your favorite actors
+6. Exit
+---
+Please enter your choice: 2
+Enter code for the TV series you want to add: 5892
+KOBE BRYANT, you can't add this TV series because you already added it!
+---
+MENU
+1. Print all TV series
+2. Add TV series
+3. Drop TV series
+4. Print your favorite series with schedule
+5. Print all your favorite actors
+6. Exit
+---
+Please enter your choice: 3
+Enter code for the TV series you want to drop: 99
+KOBE BRYANT, there is no such TV series in your favorite list!
+---
+MENU
+1. Print all TV series
+2. Add TV series
+3. Drop TV series
+4. Print your favorite series with schedule
+5. Print all your favorite actors
+6. Exit
+---
+Please enter your choice: 3
+Enter code for the TV series you want to drop: 5892
+KOBE BRYANT, SEINFELD has been dropped from your favorite list!
+---
+MENU
+1. Print all TV series
+2. Add TV series
+3. Drop TV series
+4. Print your favorite series with schedule
+5. Print all your favorite actors
+6. Exit
+---
+Please enter your choice: 4
+KOBE BRYANT, you did not add any TV series yet!
+---
+MENU
+1. Print all TV series
+2. Add TV series
+3. Drop TV series
+4. Print your favorite series with schedule
+5. Print all your favorite actors
+6. Exit
+---
+Please enter your choice: 5
+KOBE BRYANT, you did not add any TV series yet!
+---
+MENU
+1. Print all TV series
+2. Add TV series
+3. Drop TV series
+4. Print your favorite series with schedule
+5. Print all your favorite actors
+6. Exit
+---
+Please enter your choice: 6
+Goodbye, KOBE BRYANT!

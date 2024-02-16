@@ -1,0 +1,139 @@
+TEST CASE 1 - Outputs
+
+Welcome to the Fall 2020-2021 Semester grading system. What is your name? Chloe
+Hello Chloe! Please enter the name of the course to be processed: Cs210
+Hello Chloe! If you take the Cs210 for the first time, enter YES otherwise NO: YES
+What is your grade from (A,B,C,D,F)? E
+Invalid grade selection. Goodbye...
+
+---------------------------
+
+TEST CASE 2 - Outputs
+
+Welcome to the Fall 2020-2021 Semester grading system. What is your name? Chloe
+Hello Chloe! Please enter the name of the course to be processed: IF100
+Hello Chloe! If you take the IF100 for the first time, enter YES otherwise NO: YES
+What is your grade from (A,B,C,D,F)? A
+Do you want to switch your grade from A to S (YES or NO)? YES
+Chloe, your final grade for IF100 is S. Goodbye...
+
+---------------------------
+
+TEST CASE 3 - Outputs
+
+Welcome to the Fall 2020-2021 Semester grading system. What is your name? Chloe
+Hello Chloe! Please enter the name of the course to be processed: IF100
+Hello Chloe! If you take the IF100 for the first time, enter YES otherwise NO: YES
+What is your grade from (A,B,C,D,F)? A
+Do you want to switch your grade from A to S (YES or NO)? NO
+Chloe, your final grade for IF100 is A. Goodbye...
+
+---------------------------
+
+TEST CASE 4 - Outputs
+
+Welcome to the Fall 2020-2021 Semester grading system. What is your name? Chloe
+Hello Chloe! Please enter the name of the course to be processed: IF100
+Hello Chloe! If you take the IF100 for the first time, enter YES otherwise NO: YES
+What is your grade from (A,B,C,D,F)? F
+Do you want to switch your grade from F to U (YES or NO)? YES
+Chloe, your final grade for IF100 is U. Goodbye...
+
+---------------------------
+
+TEST CASE 5 - Outputs
+
+ What is your name? Amanadiel
+Hello Amanadiel! Please enter the name of the course to be processed: Cs408
+Hello Amanadiel! If you take the Cs408 for the first time, enter YES otherwise NO: NO
+Please enter your previous grade from (A,B,C,D,F,S,U): A
+Please enter your current grade from (A,B,C,D,F): C
+Please enter the grade you want to choose from (A,B,C,D,F,S,U): S
+Amanadiel, your final grade for Cs408 is S. Goodbye...
+
+---------------------------
+
+TEST CASE 6 - Outputs
+
+Welcome to the Fall 2020-2021 Semester grading system. What is your name? Amanadiel
+Hello Amanadiel! Please enter the name of the course to be processed: Cs408
+Hello Amanadiel! If you take the Cs408 for the first time, enter YES otherwise NO: NO
+Please enter your previous grade from (A,B,C,D,F,S,U): A
+Please enter your current grade from (A,B,C,D,F): C
+Please enter the grade you want to choose from (A,B,C,D,F,S,U): C
+Amanadiel, your final grade for Cs408 is C. Goodbye...
+
+
+---------------------------
+
+TEST CASE 7 - Outputs
+
+Welcome to the Fall 2020-2021 Semester grading system. What is your name? Amanadiel
+Hello Amanadiel! Please enter the name of the course to be processed: Cs408
+Hello Amanadiel! If you take the Cs408 for the first time, enter YES otherwise NO: NO
+Please enter your previous grade from (A,B,C,D,F,S,U): A
+Please enter your current grade from (A,B,C,D,F): C
+Please enter the grade you want to choose from (A,B,C,D,F,S,U): A
+Invalid grade selection. You cannot choose a higher or lower grade than you deserve.
+
+---------------------------
+
+TEST CASE 8 - Outputs
+
+Welcome to the Fall 2020-2021 Semester grading system. What is your name? Amanadiel
+Hello Amanadiel! Please enter the name of the course to be processed: Cs498
+Hello Amanadiel! If you take the Cs498 for the first time, enter YES otherwise NO: NO
+Please enter your previous grade from (A,B,C,D,F,S,U): U
+Please enter your current grade from (A,B,C,D,F): F
+Please enter the grade you want to choose from (A,B,C,D,F,S,U): U
+Amanadiel, your final grade for Cs498 is U. Goodbye...
+
+---------------------------
+
+TEST CASE 9 - Outputs
+
+Welcome to the Fall 2020-2021 Semester grading system. What is your name? Amanadiel
+Hello Amanadiel! Please enter the name of the course to be processed: CS495
+Hello Amanadiel! If you take the CS495 for the first time, enter YES otherwise NO: NO
+Please enter your previous grade from (A,B,C,D,F,S,U): S
+Please enter your current grade from (A,B,C,D,F): B
+Please enter the grade you want to choose from (A,B,C,D,F,S,U): S
+Amanadiel, your final grade for CS495 is S. Goodbye...
+
+---------------------------
+
+TEST CASE 10 - Outputs
+
+Welcome to the Fall 2020-2021 Semester grading system. What is your name? Dan
+Hello Dan! Please enter the name of the course to be processed: CS201
+Hello Dan! If you take the CS201 for the first time, enter YES otherwise NO: NO
+Please enter your previous grade from (A,B,C,D,F,S,U): F
+Please enter your current grade from (A,B,C,D,F): F
+Please enter the grade you want to choose from (A,B,C,D,F,S,U): U
+Invalid grade selection. If you received F before, and fail this semester, you get F.
+
+---------------------------
+
+TEST CASE 11 - Outputs
+
+Welcome to the Fall 2020-2021 Semester grading system. What is your name? Dan
+Hello Dan! Please enter the name of the course to be processed: CS201
+Hello Dan! If you take the CS201 for the first time, enter YES otherwise NO: NO
+Please enter your previous grade from (A,B,C,D,F,S,U): F
+Please enter your current grade from (A,B,C,D,F): F
+Please enter the grade you want to choose from (A,B,C,D,F,S,U): F
+Dan, your final grade for CS201 is F. Goodbye...
+
+---------------------------
+
+TEST CASE 12 - Outputs
+
+Welcome to the Fall 2020-2021 Semester grading system. What is your name? Creed
+Hello Creed! Please enter the name of the course to be processed: CS202
+Hello Creed! If you take the CS202 for the first time, enter YES otherwise NO: NO
+Please enter your previous grade from (A,B,C,D,F,S,U): U
+Please enter your current grade from (A,B,C,D,F): A
+Please enter the grade you want to choose from (A,B,C,D,F,S,U): F
+Invalid grade selection. If you received U before, you may choose S or current letter grade.
+
+---------------------------

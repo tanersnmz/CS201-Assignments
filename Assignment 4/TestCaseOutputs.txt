@@ -1,0 +1,51 @@
+*****                                                                                                                                                                           
+Please enter a filename for the word pool: pool
+Cannot open the word pool file.                                                                                                                                                                 
+Please enter a filename for the word pool: pool1.txt
+Please enter a filename for the main text: text1.txt
+You may find the results below:                                                                                                                      
+                                                                                                                                                                                                                                           
+bastom (bastom,faytom)                                                                                                                                                                                                                     
+balkam                                                                                                                                                                                                                                     
+{isparta}                                                                                                                                                                                                                                  
+(bamt,jamt) {kara} 
+*****                                                                                                                                                                            
+Please enter a filename for the word pool: pooooool2.txt
+Cannot open the word pool file.                                                                                                                                                                 
+Please enter a filename for the word pool: pool2.txt
+Please enter a filename for the main text: m
+Cannot open the main text file.                                                                                                                      
+Please enter a filename for the main text: maintext.text
+Cannot open the main text file.                                                                                                                                                                 
+Please enter a filename for the main text: text2.txt
+You may find the results below:                                                                                                                                                                 
+
+(cyberjunk,cyberbunk) venice
+ariene grande
+{calve} {capcom} calvin calvin
+carpenter carpenter
+*****
+Please enter a filename for the word pool: pool3.txt
+Please enter a filename for the main text: text3.txt
+You may find the results below:
+
+all that is silver (doos,dsos,does) not {shine}
+not all these who wander {are} {last}
+*****
+Please enter a filename for the word pool: pool4.txt
+Please enter a filename for the main text: text4.txt
+You may find the results below:
+
+panda
+panda
+keci
+
+
+keci zebra zebra (kim,kam)
+*****
+Please enter a filename for the word pool: pool5.txt
+Please enter a filename for the main text: text5.txt
+You may find the results below:
+
+salam kalip (mana,maca) (semer,keser,kemen)
+*****

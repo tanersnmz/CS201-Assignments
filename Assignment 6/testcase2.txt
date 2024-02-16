@@ -1,0 +1,87 @@
+Welcome to my favorite TV series schedule program!
+Please, enter your name and surname: ted mosBy
+MENU
+1. Print all TV series
+2. Add TV series
+3. Drop TV series
+4. Print your favorite series with schedule
+5. Print all your favorite actors
+6. Exit
+---
+Please enter your choice: 1
+CODE,SERIES,EPISODE,DATE,SLOT
+480,MODERN FAMILY,BABY STEPS,November 26 2020,EVENING
+1240,BREAKING BAD,GRANITE STATE,November 26 2020,EVENING
+67,QUEENS GAMBIT,EXCHANGE,November 27 2020,MORNING
+8,GAME OF THRONES,THE IRON THRONE,November 28 2020,MORNING
+4029,VIKINGS,VALLHALLA CAN WAIT,November 28 2020,EVENING
+1231,HOW I MET YOUR MOTHER,SUNRISE,November 28 2020,NIGHT
+111,PRISON BREAK,ALLEN,November 29 2020,MORNING
+5084,FRIENDS,THE LAST ONE,November 29 2020,MORNING
+67,QUEENS GAMBIT,OPEINGS,November 29 2020,AFTERNOON
+5084,FRIENDS,THE LAST ONE PART 2,November 29 2020,NIGHT
+8,GAME OF THRONES,THE LAST OF STARKS,November 30 2020,MORNING
+449,BETTER CALL SAUL,SOMETHING UNFORGIVABLE,November 30 2020,EVENING
+10456,THE OFFICE,THE FARM,November 30 2020,EVENING
+102,THE WITCHER,THE END BEGINNING,December 1 2020,AFTERNOON
+1231,HOW I MET YOUR MOTHER,LAST FOREVER,December 1 2020,AFTERNOON
+5892,SEINFELD,THE CLIP SHOW,December 1 2020,EVENING
+102,THE WITCHER,FOUR MARK,December 1 2020,NIGHT
+1231,HOW I MET YOUR MOTHER,LAST FOREVER PART 2,December 1 2020,NIGHT
+449,BETTER CALL SAUL,NAMASTE,December 2 2020,AFTERNOON
+5,THE WALKING DEAD,A CERTAIN DOOM,December 3 2020,AFTERNOON
+449,BETTER CALL SAUL,WINNER,December 3 2020,AFTERNOON
+5892,SEINFELD,THE MAID,January 1 2021,NIGHT
+---
+MENU
+1. Print all TV series
+2. Add TV series
+3. Drop TV series
+4. Print your favorite series with schedule
+5. Print all your favorite actors
+6. Exit
+---
+Please enter your choice: 2
+Enter code for the TV series you want to add: 1240
+TED MOSBY, BREAKING BAD added to your schedule.
+---
+MENU
+1. Print all TV series
+2. Add TV series
+3. Drop TV series
+4. Print your favorite series with schedule
+5. Print all your favorite actors
+6. Exit
+---
+Please enter your choice: 4
+TED MOSBY, here is your favorite TV series:
+CODE,SERIES,EPISODE,DATE,SLOT
+1240,BREAKING BAD,GRANITE STATE,November 26 2020,EVENING
+---
+MENU
+1. Print all TV series
+2. Add TV series
+3. Drop TV series
+4. Print your favorite series with schedule
+5. Print all your favorite actors
+6. Exit
+---
+Please enter your choice: 5
+TED MOSBY, here is your favorite actors:
+AARON PAUL: 1
+ANNA GUNN: 1
+BOB ODENKIRK: 1
+BRYAN CRANSTON: 1
+DEAN NORRIS: 1
+JONATHAN BANKS: 1
+---
+MENU
+1. Print all TV series
+2. Add TV series
+3. Drop TV series
+4. Print your favorite series with schedule
+5. Print all your favorite actors
+6. Exit
+---
+Please enter your choice: 6
+Goodbye, TED MOSBY!

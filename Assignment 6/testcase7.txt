@@ -1,0 +1,248 @@
+Welcome to my favorite TV series schedule program!
+Please, enter your name and surname: ryan gosling
+MENU
+1. Print all TV series
+2. Add TV series
+3. Drop TV series
+4. Print your favorite series with schedule
+5. Print all your favorite actors
+6. Exit
+---
+Please enter your choice: 2
+Enter code for the TV series you want to add: 5
+RYAN GOSLING, THE WALKING DEAD added to your schedule.
+---
+MENU
+1. Print all TV series
+2. Add TV series
+3. Drop TV series
+4. Print your favorite series with schedule
+5. Print all your favorite actors
+6. Exit
+---
+Please enter your choice: 2
+Enter code for the TV series you want to add: 449
+RYAN GOSLING, you can't add this TV series because of a date and slot conflict!
+---
+MENU
+1. Print all TV series
+2. Add TV series
+3. Drop TV series
+4. Print your favorite series with schedule
+5. Print all your favorite actors
+6. Exit
+---
+Please enter your choice: 2
+Enter code for the TV series you want to add: 8
+RYAN GOSLING, GAME OF THRONES added to your schedule.
+---
+MENU
+1. Print all TV series
+2. Add TV series
+3. Drop TV series
+4. Print your favorite series with schedule
+5. Print all your favorite actors
+6. Exit
+---
+Please enter your choice: 2
+Enter code for the TV series you want to add: 480
+RYAN GOSLING, MODERN FAMILY added to your schedule.
+---
+MENU
+1. Print all TV series
+2. Add TV series
+3. Drop TV series
+4. Print your favorite series with schedule
+5. Print all your favorite actors
+6. Exit
+---
+Please enter your choice: 2
+Enter code for the TV series you want to add: 67
+RYAN GOSLING, QUEENS GAMBIT added to your schedule.
+---
+MENU
+1. Print all TV series
+2. Add TV series
+3. Drop TV series
+4. Print your favorite series with schedule
+5. Print all your favorite actors
+6. Exit
+---
+Please enter your choice: 2
+Enter code for the TV series you want to add: 1240
+RYAN GOSLING, you can't add this TV series because of a date and slot conflict!
+---
+MENU
+1. Print all TV series
+2. Add TV series
+3. Drop TV series
+4. Print your favorite series with schedule
+5. Print all your favorite actors
+6. Exit
+---
+Please enter your choice: 2
+Enter code for the TV series you want to add: 102
+RYAN GOSLING, THE WITCHER added to your schedule.
+---
+MENU
+1. Print all TV series
+2. Add TV series
+3. Drop TV series
+4. Print your favorite series with schedule
+5. Print all your favorite actors
+6. Exit
+---
+Please enter your choice: 2
+Enter code for the TV series you want to add: 5892
+RYAN GOSLING, SEINFELD added to your schedule.
+---
+MENU
+1. Print all TV series
+2. Add TV series
+3. Drop TV series
+4. Print your favorite series with schedule
+5. Print all your favorite actors
+6. Exit
+---
+Please enter your choice: 2
+Enter code for the TV series you want to add: 4029
+RYAN GOSLING, VIKINGS added to your schedule.
+---
+MENU
+1. Print all TV series
+2. Add TV series
+3. Drop TV series
+4. Print your favorite series with schedule
+5. Print all your favorite actors
+6. Exit
+---
+Please enter your choice: 2
+Enter code for the TV series you want to add: 5084
+RYAN GOSLING, FRIENDS added to your schedule.
+---
+MENU
+1. Print all TV series
+2. Add TV series
+3. Drop TV series
+4. Print your favorite series with schedule
+5. Print all your favorite actors
+6. Exit
+---
+Please enter your choice: 2
+Enter code for the TV series you want to add: 102
+RYAN GOSLING, you can't add this TV series because you already added it!
+---
+MENU
+1. Print all TV series
+2. Add TV series
+3. Drop TV series
+4. Print your favorite series with schedule
+5. Print all your favorite actors
+6. Exit
+---
+Please enter your choice: 2
+Enter code for the TV series you want to add: 111
+RYAN GOSLING, you can't add this TV series because of a date and slot conflict!
+---
+MENU
+1. Print all TV series
+2. Add TV series
+3. Drop TV series
+4. Print your favorite series with schedule
+5. Print all your favorite actors
+6. Exit
+---
+Please enter your choice: 2
+Enter code for the TV series you want to add: 67
+RYAN GOSLING, you can't add this TV series because you already added it!
+---
+MENU
+1. Print all TV series
+2. Add TV series
+3. Drop TV series
+4. Print your favorite series with schedule
+5. Print all your favorite actors
+6. Exit
+---
+Please enter your choice: 2
+Enter code for the TV series you want to add: 1231
+RYAN GOSLING, you can't add this TV series because of a date and slot conflict!
+---
+MENU
+1. Print all TV series
+2. Add TV series
+3. Drop TV series
+4. Print your favorite series with schedule
+5. Print all your favorite actors
+6. Exit
+---
+Please enter your choice: 4
+RYAN GOSLING, here is your favorite TV series:
+CODE,SERIES,EPISODE,DATE,SLOT
+480,MODERN FAMILY,BABY STEPS,November 26 2020,EVENING
+67,QUEENS GAMBIT,EXCHANGE,November 27 2020,MORNING
+8,GAME OF THRONES,THE IRON THRONE,November 28 2020,MORNING
+4029,VIKINGS,VALLHALLA CAN WAIT,November 28 2020,EVENING
+5084,FRIENDS,THE LAST ONE,November 29 2020,MORNING
+67,QUEENS GAMBIT,OPEINGS,November 29 2020,AFTERNOON
+5084,FRIENDS,THE LAST ONE PART 2,November 29 2020,NIGHT
+8,GAME OF THRONES,THE LAST OF STARKS,November 30 2020,MORNING
+102,THE WITCHER,THE END BEGINNING,December 1 2020,AFTERNOON
+5892,SEINFELD,THE CLIP SHOW,December 1 2020,EVENING
+102,THE WITCHER,FOUR MARK,December 1 2020,NIGHT
+5,THE WALKING DEAD,A CERTAIN DOOM,December 3 2020,AFTERNOON
+5892,SEINFELD,THE MAID,January 1 2021,NIGHT
+---
+MENU
+1. Print all TV series
+2. Add TV series
+3. Drop TV series
+4. Print your favorite series with schedule
+5. Print all your favorite actors
+6. Exit
+---
+Please enter your choice: 5
+RYAN GOSLING, here is your favorite actors:
+BRYAN CRANSTON: 3
+WENTWORTH MILLER: 3
+COURTENEY COX: 2
+YASEN ATOUR: 2
+ALEXANDER LUDWIG: 1
+ANDREW LINCOLN: 1
+ANNA TAYLOR JOY: 1
+ANYA CHALOTRA: 1
+ARIEL WINTER: 1
+BASIL EIDENBENZ: 1
+CHANDLER RIGGS: 1
+CLIVE STANDEN: 1
+EMILIA CLARKE: 1
+FREYA ALLAN: 1
+HARRY MELLING: 1
+JACOB FORTUNE LLOYD: 1
+JASON ALEXANDER: 1
+JENNIFER ANISTON: 1
+JERRY SEINFELD: 1
+JULIE BOWEN: 1
+KATHERYN WINNICK: 1
+KIT HARINGTON: 1
+LISA KUDROW: 1
+MAISIE WILLIAMS: 1
+MICHAEL RICHARDS: 1
+NIKOLAJ COSTER WALDAU: 1
+NORMAN REEDUS: 1
+SARAH HYLAND: 1
+SARAH WAYNE CALLIES: 1
+SOFIA VERGARA: 1
+SOPHIE TURNER: 1
+TRAVIS FIMMEL: 1
+---
+MENU
+1. Print all TV series
+2. Add TV series
+3. Drop TV series
+4. Print your favorite series with schedule
+5. Print all your favorite actors
+6. Exit
+---
+Please enter your choice: 6
+Goodbye, RYAN GOSLING!
